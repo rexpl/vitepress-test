@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Vitepress Test"
-  text: "A vitepress test"
+  text: "A vitepress test from gh-pages"
   tagline: My great project tagline
   actions:
     - theme: brand
