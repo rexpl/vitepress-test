@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
 
   base: '/vitepress-test/',
+  cleanUrls: true,
 
   title: "Vitepress Test",
   description: "A vitepress test",
